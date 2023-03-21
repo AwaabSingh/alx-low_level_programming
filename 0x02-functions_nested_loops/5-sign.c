@@ -6,7 +6,9 @@
  *
  * Return: 1 for positive number, -1 for negative number, or 0 for zero
  */
+
 int print_sign(int n)
+
 {
 	if (n > 0)
 	{
